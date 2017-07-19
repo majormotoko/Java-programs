@@ -6,12 +6,12 @@ URL String Encoding - Strings (which are Objects in Java).
 Array Sort - Objects, Arrays, Sorting methods.
 MyTime - 'Getters and Setters', data formatting.
 MyUrl - Constructors, method overloading.
-URLStringEncode - String methods, using the Java API.
+URLStringEncode - String methods using the Java API.
 Shapes Folder- Polymorphism, Inheritance, method overloading.
 
-If I've learned one piece of 'sage advice' in learning programming, it is the often-repeated maxim to 'learn one language well first, then progress to others'. My initial foray into coding during my 2nd degree was about half web development (HTML/CSS/JS and related technologies, and half traditional CS material. I think taking 2 semesters of C, the foundation of most modern languages, made learning all subsequent languages easier (JS and Java in particular). At this point I have had exposure to: C, Java/.jsp, ColdFusion, SQL, HTML5, CSS3, JS, scripting in BASH, and a tiny bit of Python. I've looked at a bunch of others.
+If I've absorbed one piece of 'sage advice' from learning programming, it is the often-repeated maxim to 'learn one language well first, then progress to others'. My initial foray into coding during my 2nd degree was about half web development (HTML/CSS/JS and related technologies, and half traditional CS material. I think taking 2 semesters of C, the foundation of most modern languages, made learning all subsequent languages easier (JS and Java in particular). At this point I have had exposure to: C, Java/.jsp, ColdFusion, SQL(MySQL and MSSQL), HTML5, CSS3, JS, scripting in BASH, and a tiny bit of Python. I've looked at a bunch of others, and have used a number of IDE's, frameworks, and libraries.
 
-Although there are discussion boards and weekly chats, the courses are in many ways self-directed. Coding projects are in many ways an exercise in research, planning, and testing. 
+Although there are discussion boards and weekly chats, the courses are in many ways self-directed. Coding projects are exercises in research, planning, and testing.
 My understanding of OOP has been solidified and given me a base to work from. I can research and use API's, import and modify existing code, wade through textbooks and technical material, and understand the humor in Dilbert and XKCD. Most importantly, I can plan a module of code and write it. Most modern languages are at least semi-intellgible to me, even in the syntax is unfamiliar. 
 
 One of the main reasons I decided to take the school approach (as opposed to self-teaching) was to attempt to absorb 'best practices', which several of my professors have thankfully been merciless to me regarding. I try to adhere to the following principles when writing software (which essentially follow some of the principles of 'Agile Development')
